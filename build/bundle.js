@@ -65,7 +65,7 @@
 /******/ 	}
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "385f95c90bf8c6880922"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "00a60937c551c47778c8"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
 /******/ 	
@@ -601,7 +601,7 @@
 /* 3 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	eval("'use strict';\n\n__webpack_require__(4);\n\nvar _reactRedux = __webpack_require__(300);\n\nvar _react = __webpack_require__(302);\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = __webpack_require__(366);\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\n__webpack_require__(512);\n\nvar _store = __webpack_require__(517);\n\nvar _store2 = _interopRequireDefault(_store);\n\nvar _ExampleApp = __webpack_require__(529);\n\nvar _ExampleApp2 = _interopRequireDefault(_ExampleApp);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n_reactDom2.default.render(_react2.default.createElement(\n    _reactRedux.Provider,\n    { store: _store2.default },\n    _react2.default.createElement(_ExampleApp2.default, null)\n), document.getElementById('content'));\n\n//////////////////\n// WEBPACK FOOTER\n// ./app/entrypoint.js\n// module id = 3\n// module chunks = 0\n//# sourceURL=webpack:///./app/entrypoint.js?");
+	eval("'use strict';\n\n__webpack_require__(4);\n\nvar _reactRedux = __webpack_require__(300);\n\nvar _react = __webpack_require__(302);\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = __webpack_require__(366);\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\n__webpack_require__(512);\n\nvar _store = __webpack_require__(517);\n\nvar _store2 = _interopRequireDefault(_store);\n\nvar _ExampleApp = __webpack_require__(529);\n\nvar _ExampleApp2 = _interopRequireDefault(_ExampleApp);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n_reactDom2.default.render(_react2.default.createElement(\n    _reactRedux.Provider,\n    { store: _store2.default },\n    _react2.default.createElement(_ExampleApp2.default, null)\n), document.getElementById('content'));\n\n//////////////////\n// WEBPACK FOOTER\n// ./app/entrypoint.jsx\n// module id = 3\n// module chunks = 0\n//# sourceURL=webpack:///./app/entrypoint.jsx?");
 
 /***/ }),
 /* 4 */
@@ -3661,7 +3661,7 @@
 /* 513 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	eval("exports = module.exports = __webpack_require__(514)(undefined);\n// imports\n\n\n// module\nexports.push([module.id, \"body {\\n  font-family: 'Lato', sans-serif;\\n  -webkit-font-smoothing: antialiased;\\n  margin: 0;\\n  background-color: #fcfcfc; }\\n\", \"\"]);\n\n// exports\n\n\n//////////////////\n// WEBPACK FOOTER\n// ./~/css-loader?modules&importLoaders=1&localIdentName=[path][name]-[local]!./~/postcss-loader!./~/sass-loader!./app/global.scss\n// module id = 513\n// module chunks = 0\n//# sourceURL=webpack:///./app/global.scss?./~/css-loader?modules&importLoaders=1&localIdentName=%5Bpath%5D%5Bname%5D-%5Blocal%5D!./~/postcss-loader!./~/sass-loader");
+	eval("exports = module.exports = __webpack_require__(514)(undefined);\n// imports\n\n\n// module\nexports.push([module.id, \"body {\\n  font-family: 'Lato', sans-serif;\\n  margin: 0;\\n  background-color: #fcfcfc; }\\n\", \"\"]);\n\n// exports\n\n\n//////////////////\n// WEBPACK FOOTER\n// ./~/css-loader?modules&importLoaders=1&localIdentName=[path][name]-[local]!./~/postcss-loader!./~/sass-loader!./app/global.scss\n// module id = 513\n// module chunks = 0\n//# sourceURL=webpack:///./app/global.scss?./~/css-loader?modules&importLoaders=1&localIdentName=%5Bpath%5D%5Bname%5D-%5Blocal%5D!./~/postcss-loader!./~/sass-loader");
 
 /***/ }),
 /* 514 */
@@ -3925,7 +3925,7 @@
 /* 557 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	eval("exports = module.exports = __webpack_require__(514)(undefined);\n// imports\n\n\n// module\nexports.push([module.id, \"body {\\n  font-family: 'Lato', sans-serif;\\n  -webkit-font-smoothing: antialiased;\\n  margin: 0;\\n  background-color: #fcfcfc; }\\n\\n.app-components-WaterFall-waterfall {\\n  box-sizing: border-box;\\n  display: -webkit-box;\\n  display: -ms-flexbox;\\n  display: flex;\\n  height: 800px;\\n  overflow-x: hidden;\\n  overflow-y: scroll;\\n  width: 90%; }\\n\", \"\"]);\n\n// exports\nexports.locals = {\n\t\"waterfall\": \"app-components-WaterFall-waterfall\"\n};\n\n//////////////////\n// WEBPACK FOOTER\n// ./~/css-loader?modules&importLoaders=1&localIdentName=[path][name]-[local]!./~/postcss-loader!./~/sass-loader!./app/components/WaterFall.scss\n// module id = 557\n// module chunks = 0\n//# sourceURL=webpack:///./app/components/WaterFall.scss?./~/css-loader?modules&importLoaders=1&localIdentName=%5Bpath%5D%5Bname%5D-%5Blocal%5D!./~/postcss-loader!./~/sass-loader");
+	eval("exports = module.exports = __webpack_require__(514)(undefined);\n// imports\n\n\n// module\nexports.push([module.id, \"body {\\n  font-family: 'Lato', sans-serif;\\n  margin: 0;\\n  background-color: #fcfcfc; }\\n\\n.app-components-WaterFall-waterfall {\\n  box-sizing: border-box;\\n  display: -webkit-box;\\n  display: -ms-flexbox;\\n  display: flex;\\n  height: 800px;\\n  overflow-x: hidden;\\n  overflow-y: scroll;\\n  width: 90%; }\\n\", \"\"]);\n\n// exports\nexports.locals = {\n\t\"waterfall\": \"app-components-WaterFall-waterfall\"\n};\n\n//////////////////\n// WEBPACK FOOTER\n// ./~/css-loader?modules&importLoaders=1&localIdentName=[path][name]-[local]!./~/postcss-loader!./~/sass-loader!./app/components/WaterFall.scss\n// module id = 557\n// module chunks = 0\n//# sourceURL=webpack:///./app/components/WaterFall.scss?./~/css-loader?modules&importLoaders=1&localIdentName=%5Bpath%5D%5Bname%5D-%5Blocal%5D!./~/postcss-loader!./~/sass-loader");
 
 /***/ }),
 /* 558 */
