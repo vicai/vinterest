@@ -4,6 +4,7 @@
   align-items: center;
   border-bottom: 1px;
   display: flex;
+  flex-shrink: 0;
   height: 65px;
   justify-content: center;
   width: 100%;
@@ -17,6 +18,7 @@
 :local(.searchNavBar) {
   align-items: center;
   display: flex;
+  flex-shrink: 0;
   justify-content: center;
   padding: 8px;
   width: 100%;
