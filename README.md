@@ -16,7 +16,7 @@ Vinterest mock up UI based on React + Redux.
 # install dependencies
 yarn install
 
-# run zhihu-daily api server at localhost:8070
+# run server at localhost:8080
 yarn start
 ```
 
